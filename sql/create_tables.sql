@@ -1,0 +1,1 @@
+CREATE TABLE majors (Major TEXT, Major_category TEXT, Median INTEGER, Unemployment_rate REAL, ROI_Score REAL, salary_gap INTEGER);
